@@ -1,0 +1,29 @@
+{
+  "channels": [
+    {
+      "name": "2M TV",
+      "thumbnail": "https://cmca-med.org/wp-content/uploads/2015/04/2M.jpg",
+      "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8"
+    },
+    {
+      "name": "alaoula",
+      "thumbnail": "https://static.wikia.nocookie.net/iepfanon/images/0/07/Alaoula.png",
+      "url": "https://stream-lb.livemediama.com/alaoula/hls/stream_4/playlist.m3u8"
+    },
+    {
+      "name": "medi1tv",
+      "thumbnail": "https://uploads.stagiaires.ma/wp-content/uploads/2017/02/06213020/medi1tv.jpg",
+      "url": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8"
+    },
+    {
+      "name": "arryadia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/960px-Logo%2Barryadia%2Bmorocco.png",
+      "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_4/playlist.m3u8"
+    },
+    {
+      "name": "tamazight",
+      "thumbnail": "https://www.haca.ma/sites/default/files/upload/images/tamazight.png",
+      "url": "https://stream-lb.livemediama.com/tamazight/hls/master.m3u8"
+    }
+  ]
+}
