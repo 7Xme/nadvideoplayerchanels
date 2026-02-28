@@ -1,29 +1,113 @@
 {
-  "channels": [
+  "live_tv": [
     {
+      "id": "1",
       "name": "2M TV",
       "thumbnail": "https://cmca-med.org/wp-content/uploads/2015/04/2M.jpg",
       "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8"
     },
     {
-      "name": "alaoula",
+      "id": "2",
+      "name": "Alaoula",
       "thumbnail": "https://static.wikia.nocookie.net/iepfanon/images/0/07/Alaoula.png",
       "url": "https://stream-lb.livemediama.com/alaoula/hls/stream_4/playlist.m3u8"
     },
     {
-      "name": "medi1tv",
+      "id": "3",
+      "name": "Medi1TV",
       "thumbnail": "https://uploads.stagiaires.ma/wp-content/uploads/2017/02/06213020/medi1tv.jpg",
       "url": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8"
     },
     {
-      "name": "arryadia",
+      "id": "4",
+      "name": "Arryadia",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/960px-Logo%2Barryadia%2Bmorocco.png",
       "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_4/playlist.m3u8"
     },
     {
-      "name": "tamazight",
+      "id": "5",
+      "name": "Tamazight",
       "thumbnail": "https://www.haca.ma/sites/default/files/upload/images/tamazight.png",
       "url": "https://stream-lb.livemediama.com/tamazight/hls/master.m3u8"
+    }
+  ],
+  "movies": [
+    {
+      "id": "m1",
+      "title": "Matrix",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Matrix_Poster.jpg/220px-The_Matrix_Poster.jpg",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Matrix_Poster.jpg/800px-The_Matrix_Poster.jpg",
+      "year": "1999",
+      "genre": "Action, Drama, Sci-Fi",
+      "rating": "8.7",
+      "duration": "2h 16m",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "director": "The Wachowskis",
+      "stream_url": "https://example.com/movies/matrix.mp4",
+      "related_ids": ["m2", "m3"]
+    },
+    {
+      "id": "m2",
+      "title": "Titanic",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Titanic_poster.jpg/220px-Titanic_poster.jpg",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Titanic_poster.jpg/800px-Titanic_poster.jpg",
+      "year": "1997",
+      "genre": "Romance, Drama",
+      "rating": "7.8",
+      "duration": "3h 14m",
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+      "director": "James Cameron",
+      "stream_url": "https://example.com/movies/titanic.mp4",
+      "related_ids": ["m1", "m3"]
+    },
+    {
+      "id": "m3",
+      "title": "African Cats",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/African_Cats_poster.jpg/220px-African_Cats_poster.jpg",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/African_Cats_poster.jpg/800px-African_Cats_poster.jpg",
+      "year": "2011",
+      "genre": "Documentary, Nature",
+      "rating": "7.4",
+      "duration": "1h 29m",
+      "description": "An African lioness named Layla struggles to protect her cubs from a rival pride.",
+      "cast": ["Samuel L. Jackson"],
+      "director": "Keith Scholey",
+      "stream_url": "https://example.com/movies/african_cats.mp4",
+      "related_ids": ["m1", "m2"]
+    }
+  ],
+  "anime": [
+    {
+      "id": "a1",
+      "title": "Naruto",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/220px-NarutoCoverTankobon1.jpg",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/NarutoCoverTankobon1.jpg/800px-NarutoCoverTankobon1.jpg",
+      "year": "2002",
+      "genre": "Action, Adventure, Drama",
+      "rating": "8.3",
+      "duration": "22m",
+      "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+      "cast": ["Maile Flanagan", "Kate Higgins"],
+      "director": "Hayato Date",
+      "stream_url": "https://example.com/anime/naruto.mp4",
+      "related_ids": ["a2"]
+    },
+    {
+      "id": "a2",
+      "title": "Attack on Titan",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Attack_on_Titan_Season_1_Poster.jpg/220px-Attack_on_Titan_Season_1_Poster.jpg",
+      "backdrop": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Attack_on_Titan_Season_1_Poster.jpg/800px-Attack_on_Titan_Season_1_Poster.jpg",
+      "year": "2013",
+      "genre": "Action, Drama, Fantasy",
+      "rating": "8.8",
+      "duration": "24m",
+      "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+      "cast": ["Yuki Kaji", "Yui Ishikawa"],
+      "director": "Tetsurou Araki",
+      "stream_url": "https://example.com/anime/attack_on_titan.mp4",
+      "related_ids": ["a1"]
     }
   ]
 }
