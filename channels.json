@@ -3,32 +3,107 @@
     {
       "id": "1",
       "name": "2M TV",
-      "thumbnail": "https://cmca-med.org/wp-content/uploads/2015/04/2M.jpg",
-      "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8"
+      "thumbnail": "https://livemediama.com/static/img/channels/2m.png",
+      "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+      "video_type": "direct"
     },
     {
       "id": "2",
-      "name": "Alaoula",
-      "thumbnail": "https://static.wikia.nocookie.net/iepfanon/images/0/07/Alaoula.png",
-      "url": "https://stream-lb.livemediama.com/alaoula/hls/stream_4/playlist.m3u8"
+      "name": "القناة الثانية الأرضي",
+      "thumbnail": "https://livemediama.com/static/img/channels/2m.png",
+      "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+      "video_type": "direct"
     },
     {
       "id": "3",
-      "name": "Medi1TV",
-      "thumbnail": "https://uploads.stagiaires.ma/wp-content/uploads/2017/02/06213020/medi1tv.jpg",
-      "url": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8"
+      "name": "Alaoula",
+      "thumbnail": "https://static.wikia.nocookie.net/iepfanon/images/0/07/Alaoula.png",
+      "url": "https://stream-lb.livemediama.com/alaoula/hls/stream_4/playlist.m3u8",
+      "video_type": "direct"
     },
     {
       "id": "4",
-      "name": "Arryadia",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/960px-Logo%2Barryadia%2Bmorocco.png",
-      "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_4/playlist.m3u8"
+      "name": "Alaoula tnt",
+      "thumbnail": "https://static.wikia.nocookie.net/iepfanon/images/0/07/Alaoula.png",
+      "url": "https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8",
+      "video_type": "direct"
     },
     {
       "id": "5",
+      "name": "Medi1TV",
+      "thumbnail": "https://uploads.stagiaires.ma/wp-content/uploads/2017/02/06213020/medi1tv.jpg",
+      "url": "https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "6",
+      "name": "Arryadia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo%2Barryadia%2Bmorocco.png/960px-Logo%2Barryadia%2Bmorocco.png",
+      "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_4/playlist.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "7",
       "name": "Tamazight",
-      "thumbnail": "https://www.haca.ma/sites/default/files/upload/images/tamazight.png",
-      "url": "https://stream-lb.livemediama.com/tamazight/hls/master.m3u8"
+      "thumbnail": "https://livemediama.com/static/img/channels/tamazight.png",
+      "url": "https://stream-lb.livemediama.com/tamazight/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "8",
+      "name": "قناة الأخبار المغربية",
+      "thumbnail": "https://livemediama.com/static/img/channels/m24maroc.png",
+      "url": "https://stream-lb.livemediama.com/m24maroc/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "9",
+      "name": " قناة العيون",
+      "thumbnail": "https://livemediama.com/static/img/channels/laayoune.png",
+      "url": "https://stream-lb.livemediama.com/laayounetv/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "10",
+      "name": "قناة المغربية",
+      "thumbnail": "https://livemediama.com/static/img/channels/almaghribia.png",
+      "url": "https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "11",
+      "name": "قناة السادسة",
+      "thumbnail": "https://livemediama.com/static/img/channels/assadissa.png",
+      "url": "https://stream-lb.livemediama.com/assadissa/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "12",
+      "name": "قناة أفلام تيفي",
+      "thumbnail": "https://livemediama.com/static/img/channels/aflam.png",
+      "url": "https://stream-lb.livemediama.com/aflam/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "13",
+      "name": "القناة الثقافية",
+      "thumbnail": "https://livemediama.com/static/img/channels/attakafiya.png",
+      "url": "https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "14",
+      "name": "تيلي ماروك",
+      "thumbnail": "https://livemediama.com/static/img/channels/telemaroc.png",
+      "url": "https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8",
+      "video_type": "direct"
+    },
+    {
+      "id": "15",
+      "name": "قناة شدى تيفي",
+      "thumbnail": "https://livemediama.com/static/img/channels/chadatv.png",
+      "url": "https://stream-lb.livemediama.com/chadatv/hls/master.m3u8",
+      "video_type": "direct"
     }
   ],
   "movies": [
@@ -42,10 +117,54 @@
       "rating": "8.7",
       "duration": "2h 16m",
       "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
       "director": "The Wachowskis",
       "stream_url": "https://example.com/movies/matrix.mp4",
-      "related_ids": ["m2", "m3"]
+      "video_type": "direct",
+      "related_ids": [
+        "m2",
+        "m3"
+      ]
+    },
+    {
+      "id": "m_embed_demo",
+      "title": "LuluVdo Embed Demo",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1025&auto=format&fit=crop",
+      "backdrop": "https://images.unsplash.com/photo-1542204172-356391605ea2?q=80&w=1025&auto=format&fit=crop",
+      "year": "2024",
+      "genre": "Web Feature",
+      "rating": "9.9",
+      "duration": "N/A",
+      "description": "A demo showing the new iframe embed capability in the player.",
+      "cast": [
+        "Web"
+      ],
+      "director": "NAD Developer",
+      "stream_url": "https://luluvdo.com/e/8a6pi5pmbhsd",
+      "video_type": "embed",
+      "related_ids": []
+    },
+    {
+      "id": "m_view_demo",
+      "title": "LuluVdo View Conversion Demo",
+      "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=1025&auto=format&fit=crop",
+      "backdrop": "https://images.unsplash.com/photo-1542204172-356391605ea2?q=80&w=1025&auto=format&fit=crop",
+      "year": "2024",
+      "genre": "Web Feature",
+      "rating": "9.5",
+      "duration": "N/A",
+      "description": "This link uses the standard view URL and is converted to embed automatically.",
+      "cast": [
+        "NAD"
+      ],
+      "director": "NAD Developer",
+      "stream_url": "https://luluvdo.com/8a6pi5pmbhsd",
+      "video_type": "embed",
+      "related_ids": []
     },
     {
       "id": "m2",
@@ -57,10 +176,17 @@
       "rating": "7.8",
       "duration": "3h 14m",
       "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
-      "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet"
+      ],
       "director": "James Cameron",
       "stream_url": "https://example.com/movies/titanic.mp4",
-      "related_ids": ["m1", "m3"]
+      "video_type": "direct",
+      "related_ids": [
+        "m1",
+        "m3"
+      ]
     },
     {
       "id": "m3",
@@ -72,10 +198,16 @@
       "rating": "7.4",
       "duration": "1h 29m",
       "description": "An African lioness named Layla struggles to protect her cubs from a rival pride.",
-      "cast": ["Samuel L. Jackson"],
+      "cast": [
+        "Samuel L. Jackson"
+      ],
       "director": "Keith Scholey",
       "stream_url": "https://example.com/movies/african_cats.mp4",
-      "related_ids": ["m1", "m2"]
+      "video_type": "direct",
+      "related_ids": [
+        "m1",
+        "m2"
+      ]
     }
   ],
   "anime": [
@@ -89,10 +221,16 @@
       "rating": "8.3",
       "duration": "22m",
       "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
-      "cast": ["Maile Flanagan", "Kate Higgins"],
+      "cast": [
+        "Maile Flanagan",
+        "Kate Higgins"
+      ],
       "director": "Hayato Date",
       "stream_url": "https://example.com/anime/naruto.mp4",
-      "related_ids": ["a2"]
+      "video_type": "direct",
+      "related_ids": [
+        "a2"
+      ]
     },
     {
       "id": "a2",
@@ -104,10 +242,16 @@
       "rating": "8.8",
       "duration": "24m",
       "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
-      "cast": ["Yuki Kaji", "Yui Ishikawa"],
+      "cast": [
+        "Yuki Kaji",
+        "Yui Ishikawa"
+      ],
       "director": "Tetsurou Araki",
       "stream_url": "https://example.com/anime/attack_on_titan.mp4",
-      "related_ids": ["a1"]
+      "video_type": "direct",
+      "related_ids": [
+        "a1"
+      ]
     }
   ]
 }
